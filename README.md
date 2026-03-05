@@ -1,6 +1,6 @@
 # BSP TUSB546 Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32-tusb546.svg?color=brightgreen)
+![tag](https://img.shields.io/badge/tag-v1.0.4-brightgreen.svg)
 
 ## Overview
 
